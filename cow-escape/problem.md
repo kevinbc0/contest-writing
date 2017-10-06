@@ -13,7 +13,7 @@ Given all this information, help John determine if a cow will escape. If it does
 
 The first line of input contains two integers, M and N. The next M lines will contain strings of length N containing only the characters 'X', '.', 'C', and 'E' representing the labyrinth. Each labyrinth is guaranteed to contain only one 'C' and one 'E' reachable by the 'C'.
 
-The next line of input will contain a single integer, E. The next and final line of input will contain four integers, G_up, G_down, G_left, and G_right (in that order).
+The next line of input will contain a single integer, E. The next and final line of input will contain four integers, G<sub>up</sub>, G<sub>down</sub>, G<sub>left</sub>, and G<sub>right</sub> (in that order).
 
 **Constraints**
 
