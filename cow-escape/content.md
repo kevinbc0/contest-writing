@@ -18,7 +18,7 @@ The next line of input will contain a single integer, *E*. The next and final li
 **Constraints**
 
 2 <= *M*, *N* <= 50  
-1 <= *E*, *G<sub>up</sub>*, *G<sub>down</sub>*, *G<sub>left</sub>*, *G<sub>right</sub>* <= 10^4
+1 <= *E*, *G<sub>up</sub>*, *G<sub>down</sub>*, *G<sub>left</sub>*, *G<sub>right</sub>* <= 10<sup>4</sup>
 
 **Output Format**
 
