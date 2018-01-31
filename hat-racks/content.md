@@ -15,7 +15,7 @@ The first line contains a single integer, *N*. The next line contains a single s
 
 **Constraints**
 
-1 <= *N* <= 10^5
+1 <= *N* <= 10<sup>5</sup>
 
 **Output Format**
 
