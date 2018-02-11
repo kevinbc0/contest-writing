@@ -13,7 +13,7 @@ The first line contains a single integer, *N*. The next *N* lines contain a sing
 
 **Constraints**
 
-1 < *N*, *R* < 100
+1 <= *N*, *R* <= 100
 
 **Output Format**
 
