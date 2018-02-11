@@ -1,5 +1,5 @@
 # Syllabus Revision
-[ABCS/HACS 2/2/2018](https://www.hackerrank.com/contests/abcshacs-22/challenges/syllabus-revision)
+[UT ABCS/HACS 2/2/2018 Problem 2](https://www.hackerrank.com/contests/abcshacs-22/challenges/syllabus-revision)
 
 **Problem Statement**
 
@@ -17,8 +17,8 @@ Every assignment name will show up exactly twice. The first appearance means the
 
 **Constraints**
 
-1 <= *W* <= 10<sup>2</sup>
-1 <= *A* <= 10<sup>2</sup>
+1 <= *W* <= 10<sup>2</sup>  
+1 <= *A* <= 10<sup>4</sup>
 
 **Output Format**
 
