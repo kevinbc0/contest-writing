@@ -1,0 +1,12 @@
+USA
+Canada
+USA 7
+Canada 8
+USA 3
+Canada 3
+Canada 2
+USA 4
+Canada 4
+USA 1
+USA 8
+USA 4
