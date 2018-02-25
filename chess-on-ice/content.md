@@ -1,5 +1,5 @@
 # Chess on Ice
-[UTACM 2/23/18 Problem 2] (https://www.hackerrank.com/contests/acm-22318/challenges/chess-on-ice)
+[UTACM 2/23/18 Problem 2](https://www.hackerrank.com/contests/acm-22318/challenges/chess-on-ice)
 
 **Problem Statement**
 
