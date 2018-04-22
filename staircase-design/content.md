@@ -15,12 +15,14 @@ Frank knows that he has *N* blocks to work with, and he has a specific value in 
 
 **Input Format**
 
-The first two lines each contain a single string, the two countries competing in the match. The next 10 lines contain a string *S* and an integer *N*, where *S* denotes which country scored in that end and *N* denotes how many points were scored.
+Input will consist of a single line containing two integers, *N* and *K*.
 
 **Constraints**
 
-1 <= *N* <= 8
+1 <= *N* <= 1000
+
+1 <= *K* < *N*
 
 **Output Format**
 
-Output the country that wins the match. In the case of a tie, print 'Tie'.
+Output a single integer, the number of different staircase designs modulo 10<sup>9</sup> + 7.
