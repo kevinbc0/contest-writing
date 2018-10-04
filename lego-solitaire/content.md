@@ -13,8 +13,8 @@ Kirk needs your help while he plays his game. More specifically, he wants to kno
 
 The first line of the input will contain the total number of bricks *N*, numbered from 1 to *N*. For each brick *i*, the input will contain the following:
 
-- a single line with an integer *C_i$*and an integer *M_i*, where *C_i* denotes the color of the brick and *M_i* denotes the number of adjacent bricks that the brick is above
-- *M_i* lines containing a single integer listing the adjacent bricks that brick *i* is above. In other words, the bricks in this list cannot be removed until brick *i* is removed.
+- a single line with an integer *C<sub>i</sub>* and an integer *M<sub>i</sub>*, where *C<sub>i</sub>* denotes the color of the brick and *M<sub>i</sub>* denotes the number of adjacent bricks that the brick is above
+- *M<sub>i</sub>* lines containing a single integer listing the adjacent bricks that brick *i* is above. In other words, the bricks in this list cannot be removed until brick *i* is removed.
 
 Note that the bricks can be of arbitrary shape, so no assumptions can be made about whether the brick dependencies are acyclic.
 
@@ -25,13 +25,13 @@ Next will follow a line containing an integer *Q*, the number of queries to answ
 
 **Constraints**
 
-1 <= N <= 10^5
+1 <= *N* <= 10<sup>5</sup>
 
-1 <= C_i <= 8
+1 <= *C<sub>i</sub>* <= 8
 
-1 <= M_i <= 10
+1 <= *M<sub>i</sub>* <= 10
 
-1 <= Q <= 10^4
+1 <= *Q* <= 10<sup>4</sup>
 
 **Output Format**
 
